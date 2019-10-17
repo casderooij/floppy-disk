@@ -1,0 +1,23 @@
+{
+	"name": "floppy-disk",
+	"version": "0.0.1",
+	"description": "Component library",
+	"main": "index.js",
+	"scripts": {
+		"build": "tsc"
+	},
+	"devDependencies": {
+		"typescript": "3.6.4"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/casderooij/floppy-disk.git"
+	},
+	"author": "Cas de Rooij",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/casderooij/floppy-disk/issues"
+	},
+	"homepage": "https://github.com/casderooij/floppy-disk#readme",
+	"dependencies": {}
+}
