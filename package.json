@@ -1,6 +1,6 @@
 {
 	"name": "floppy-disk",
-	"version": "0.0.1",
+	"version": "0.0.5",
 	"description": "Component library",
 	"main": "index.js",
 	"scripts": {
