@@ -1,1 +1,1 @@
-import slider from './carousel';
+export * from './carousel';

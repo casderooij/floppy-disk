@@ -3,7 +3,7 @@ interface Options {
 	dotNav: boolean;
 }
 
-const slider = (sliderItems: any, options: Options) => {
+export const slider = (sliderItems: any, options: Options) => {
 	const slides = sliderItems.getElementsByClassName('slide');
 	slides[0].classList.add('active');
 	sliderItems.style.width = `${slides.length * 100}vw`;
@@ -117,5 +117,3 @@ const slider = (sliderItems: any, options: Options) => {
 		}
 	};
 };
-
-export default slider;
